@@ -1,0 +1,19 @@
+### VS Code ###
+.vscode/
+
+### IntelliJ IDEA ###
+.idea/workspace.xml
+.idea/shelf/
+*.iws
+
+# Arquivos compilados pelo Java
+*.class
+out/
+target/
+
+### Java build output ###
+build/
+
+### OS ###
+.DS_Store
+Thumbs.db
