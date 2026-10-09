@@ -4,7 +4,7 @@ public class Solution
 {
     public static void main(String[] args)
     {
-     String myMessage = "I ❤\uFE0F YOU";
+        String myMessage = "I ❤️ YOU";
 
         System.out.println(myMessage);
     }

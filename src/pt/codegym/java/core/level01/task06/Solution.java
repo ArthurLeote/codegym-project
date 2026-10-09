@@ -1,19 +1,18 @@
 package pt.codegym.java.core.level01.task06;
 
+import java.util.Scanner;
+
 public class Solution
 {
-    public static void main(String[] args)
-    {
-        // Declaramos a variável currentYear e atribuímos a ela o valor 2025
+    public static void main(String[] args){
 
+        int currentYear = 2025;
+        int projectData = 2019;
 
-        // Declaramos a variável projectAge
+        int projectAge = (currentYear - projectData);
 
+        System.out.println( projectAge);
 
-        // Calculamos a idade do projeto como a diferença entre currentYear e 2019
-
-
-        // Exibimos a idade do projeto na tela
 
     }
 }
