@@ -6,7 +6,6 @@
 .idea/shelf/
 *.iws
 
-### Java build output ###
 out/
 target/
 build/
