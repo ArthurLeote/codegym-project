@@ -4,16 +4,12 @@ public class Solution
 {
     public static void main(String[] args)
     {
-        // Declaramos uma variável do tipo String para o nome do usuário
+        String userName = "Alice";
+        int userAge = 20 ;
+        String profileInfo = "Nome: " + userName + ", Idade: " + userAge;
 
+        System.out.println(profileInfo);
 
-        // Declaramos uma variável do tipo int para a idade do usuário
-
-
-        // Criamos uma string que combina o nome e a idade do usuário
-
-
-        // Exibimos as informações do perfil na tela
 
     }
 }
